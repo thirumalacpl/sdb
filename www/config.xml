@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns     		= "http://www.w3.org/ns/widgets"
         xmlns:gap 		= "http://phonegap.com/ns/1.0"
@@ -5,9 +6,9 @@
         id        		= "com.TotalIT.ImageForm"
         version   		= "0.1.2">
 
-			<name>TotalIT Image Form</name>
+			<name>ff</name>
 			<description>
-				Dummy app for testing Multiple-Saving-Image Form @ Total IT
+				asd ff descri
 			</description>
 			
 			<author href="http://totalit.co.id/" email="support@totalit.co.id">
